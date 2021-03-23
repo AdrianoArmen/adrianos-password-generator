@@ -1,5 +1,8 @@
+// Password generator with prompted messages to specify generation criteria
+
 // Assignment Code
-var generateBtn = document.querySelector("#generate");
+// Questionaire prompted when button is clicked - Event Listener
+document.querySelector("#generate").addEventListener("click", writePassword);
 
 // Write password to the #password input
 function writePassword() {
