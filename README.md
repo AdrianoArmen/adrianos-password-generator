@@ -1,4 +1,4 @@
-# adrianos-password generator
+# adrianos-password-generator
 Homework 3 - Password Generator
 
 JavaScript
