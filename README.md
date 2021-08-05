@@ -5,9 +5,9 @@ JavaScript
 
 ## HOMEWORK LINKS
 
-* GitHub Repository [GitHub repository link](https://github.com/AdrianoArmen/adrianos-password-generator) 
+* GitHub Repository [GitHub repository link](https://github.com/AdrianoArmen/adrianos-password-generator-3) 
 
-* Website Deployed [Website Deploy link](https://adrianoarmen.github.io/adrianos-password-generator/) 
+* Website Deployed [Website Deploy link](https://adrianoarmen.github.io/adrianos-password-generator-3/) 
 
 ## Description
 
