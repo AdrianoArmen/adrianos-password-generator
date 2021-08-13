@@ -1,4 +1,6 @@
 # adrianos-password-generator
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
+
 Homework 3 - Password Generator
 
 JavaScript
@@ -23,7 +25,11 @@ This sample app was designed to showcase my JavaScript fundamentals. The scenari
 
 ![Portfolio website displayed on a tablet screen](./assets/images/appfunctionality.gif)
 
+## License 📄
 
-### Credits
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Done by Adriano Armendaris
+---
+
+© 2021 Adriano.
+
